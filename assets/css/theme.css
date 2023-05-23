@@ -1343,7 +1343,7 @@ a.text-dark:hover, a.text-dark:focus {
 .card-doctor:hover .header .meta {
   bottom: 15px;
   visibility: visible;
-  opacity: 1;
+  p: 1;
 }
 
 .card-doctor .header .meta a {
